@@ -1,1 +1,5 @@
-There is no place like home
+A script that changes the working directory to the user’s home directory.
+
+
+
+
