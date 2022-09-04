@@ -1,1 +1,1 @@
-a script that gives the execute permission to only the other users.
+A script for the rwxr_x_wx
