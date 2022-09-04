@@ -1,1 +1,1 @@
-A script for the rwxr_x_wx
+a script that sets the mode of the file hello the same as olleh’s mode.
