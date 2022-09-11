@@ -1,1 +1,1 @@
-a script that converts a number from base 2 to base 10.
+a script that prints all possible combinations of two letters, except oo All lettersmust be in lower cases. one combination per line. Do not print oo
